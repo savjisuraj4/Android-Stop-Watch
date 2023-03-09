@@ -1,6 +1,6 @@
 # Android-Stop-Watch
 
-This is the Android Application created as a task for Android developement internship in Oasis Infobyte👍
+This is the Android Application created as a task for Android development  internship in Oasis Infobyte👍
 
 
 
